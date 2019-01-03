@@ -3,6 +3,8 @@
 This repository aims to put what I've learned from the [DeepLearning Book](http://www.deeplearningbook.org/) in practice.
 I'll implement the NeuralNets with [Tensorflow](https://www.tensorflow.org/).
 
+You can find the conclusion presentation [here](https://github.com/ClementRomac/DeepLearningBookPlayground/Presentation.pdf)
+
 # Summary
 
 ## Chapter 6 - 7 - 8 : FeedForward NN and Optimization
